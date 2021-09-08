@@ -35,7 +35,7 @@ body {
     width: 120px;
 }
 
-.img-container::after {
+/* .img-container::after {
     content: "";
     background-color: #ffff;
     height: 20px;
@@ -45,7 +45,7 @@ body {
     bottom: 50%;
     border-radius: 50%;
     transform: translate(-50%, -50%);
-}
+} */
 
 .img-container img{
     position: absolute;
