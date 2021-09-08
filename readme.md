@@ -7,4 +7,5 @@ A simple music player built with HTML5, CSS, and vanilla JavaScript.
 3. Play and pause
 4. Popup of song detail when playing music
 
-# Source: [Traversy Media: Built a Music Player | Vanilla JavaScript](https://youtu.be/QTHRWGn_sJw)
+### Source:  
+[Traversy Media: Built a Music Player | Vanilla JavaScript](https://youtu.be/QTHRWGn_sJw)
